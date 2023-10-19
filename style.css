@@ -1,9 +1,19 @@
+
+
+h1 { 
+    text-align: center;
+    color: #240d0d;
+    font-size: 40px;
+}
+
 body {
-    background: #CCCCCC
+    background: #f7a9a9
 }
 
 p {
     text-align: center;
+    color: #FF0000;
+    font-size: 20px;
 }
 
 em strong {
