@@ -35,3 +35,14 @@ ul {
     width: 20%;
     margin-right: 15%;
 }
+
+#titulo {
+    font-size: 40px;
+    color: #FF0000;
+    background-color: #FFFFFF;
+}
+
+.objetivo {
+    text-align: center;
+    color: black;
+}
