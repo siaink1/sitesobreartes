@@ -7,7 +7,7 @@ h1 {
 }
 
 body {
-    background: #f7a9a9
+    background: #FCF5ED
 }
 
 p {
@@ -17,7 +17,7 @@ p {
 }
 
 em strong {
-    color: #FF0000;
+    color: #1F1717;
 }
 
 .itens {
@@ -25,11 +25,12 @@ em strong {
 }
 
 .beneficios {
-    background: #FFFFFF;
+    background: #CE5A67;
     padding: 20px;
 }
 
 ul {
+    text-align: center;
     display: inline-block;
     vertical-align: top;
     width: 20%;
@@ -39,11 +40,11 @@ ul {
 #titulo {
     font-size: 40px;
     color: #FF0000;
-    background-color: #FFFFFF;
+    background-color: #F4BF96;
 }
 
 #vaca {
-    width: 50%;
+    width: 15%;
 }
 
 .objetivo {
