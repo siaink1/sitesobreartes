@@ -47,8 +47,17 @@ ul {
     width: 26%;
 }
 
-#telas { 
-    width: 26%;
+#telas {
+
+    margin: 30px;
+    padding: 50px;
+    height: 10px;
+    width: 50%;
+    border-image: fill;
+}
+
+ul {
+
     text-align: center;
 }
 
