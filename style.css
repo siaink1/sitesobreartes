@@ -43,17 +43,12 @@ ul {
     background-color: #F4BF96;
 } 
 
-#vaca {
-    width: 26%;
-}
-
 #telas {
-
+    width: 20%;
     margin: 20px;
     padding: 5px;
     height: 100px;
-    width: 50%;
-    border-image: fill;
+
 }
 
 ul {
