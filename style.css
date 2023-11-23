@@ -25,7 +25,7 @@ em strong {
 }
 
 .beneficios {
-    background: #CE5A67;
+    background-image: linear-gradient(#CE5A67, #f33c51);
     padding: 20px;
 }
 
