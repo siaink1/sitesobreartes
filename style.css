@@ -29,6 +29,11 @@ em strong {
     padding: 20px;
 }
 
+.alem { 
+    background: #f78391;
+    padding: 20px;
+}
+
 ul {
     text-align: center;
     display: inline-block;
