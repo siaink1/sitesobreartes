@@ -1,6 +1,6 @@
 header {
 	background: #BBBBBB;
-	padding: 20px 0;
+	padding: 10px 0;
 }
 
 .caixa {
@@ -10,8 +10,8 @@ header {
 }
 
 nav {
-	position: absolute;
-	top: 110px;
+	
+	top: 50px;
 	right: 0;
 }
 
