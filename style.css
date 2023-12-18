@@ -57,6 +57,12 @@ ul {
 
 .class
 
+
+header {
+	background: #BBBBBB;
+	padding: 20px 0;
+}
+
 ul {
 
     text-align: center;
@@ -66,6 +72,11 @@ ul {
 	width: 940px;
 	margin: 0 auto;
 	padding: 50px 0;
+}
+
+nav li {
+	display: inline;
+	margin: 0 0 0 15px;
 }
 
 .produtos li {
