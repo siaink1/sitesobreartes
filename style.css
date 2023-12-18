@@ -55,6 +55,12 @@ ul {
     width: 25%;
 }
 
+.caixa { 
+	position: relative;
+	width: 150px;
+	margin: 0 auto;
+}
+
 .class {
     width: 50%;
     margin: 20px;
