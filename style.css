@@ -63,7 +63,6 @@ ul {
 }
 
 .produtos li {
-	display: inline-block;
 	text-align: center;
 	width: 10%;
 	vertical-align: top;
