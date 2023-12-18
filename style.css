@@ -62,6 +62,12 @@ ul {
     text-align: center;
 }
 
+.produtos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
 .produtos li {
 	text-align: center;
 	width: 10%;
